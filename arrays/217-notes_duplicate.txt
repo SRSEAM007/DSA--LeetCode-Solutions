@@ -1,0 +1,2 @@
+1. check the sets for duplicate
+2. sets removes the duplicates in them. if the length changes after set that means it had duplicate.
